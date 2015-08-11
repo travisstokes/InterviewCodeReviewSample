@@ -1,0 +1,2 @@
+C:\Projects\Spikes\InterviewCodeReview\InterviewCodeReview\bin\Debug\InterviewCodeReview.exe.config
+C:\Projects\Spikes\InterviewCodeReview\InterviewCodeReview\obj\Debug\InterviewCodeReview.csprojResolveAssemblyReference.cache
